@@ -47,35 +47,7 @@ _Percentage: 94/100_
 - netcat
 - metasploit
 
-## Projects
 
-**MALTEGO** | May 2023 – June 2023  
-Used Maltego to gather information about the target site.  
-*Maltego is a powerful data visualization and intelligence tool used for gathering and analyzing information about various entities, including websites and domains.*
-
-**KEYLOGGER** | May 2023 - June 2023  
-Developed a Python-based keylogger with SMTP library integration as a practical exploration of cybersecurity concepts.  
-*Integrated the SMTP library to enable the keylogger to securely send the collected keystrokes to a designated email address. This feature simulated a real-world attack scenario, showcasing the potential risks of data leakage.*
-
-## Experience
-
-**CyberSecurity Intern | Rootecstak** | June 2024 - Present  
-Engaged with challenging CTF (Capture the Flag) exercises to solve hiring-related challenges.
-
-**CyberSecurity Intern | Slash Mark** | Jan 2024 - May 2024  
-Worked on projects including:
-- Text Encryption Using Cryptographic Algorithms
-- Keylogger Software
-- Image Encryption
-- Web-Based Facial Authentication System
-
-**CyberSecurity Intern | ineuron.ai** | Jan 2024  
-- URL-Based Features: Extracted characteristics like length, special characters, and domain structure to assess authenticity.
-- Domain-Based Features: Analyzed domain age, registration details, and reputation to determine legitimacy or malicious intent.
-
-**CyberSecurity Intern | TechnoHacks EduTech** | May 2023 - June 2023  
-- Used Maltego to gather information about the target site.
-- Scanned the target website using nmap.
 
 ## Certifications
 
